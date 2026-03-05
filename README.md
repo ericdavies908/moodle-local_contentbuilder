@@ -1,6 +1,6 @@
 # Section Content Builder (`local_contentbuilder`)
 
-A Moodle local plugin for the University of Glasgow Learning Innovation Support Unit (LISU) that provides a structured block-based content builder for pushing styled HTML into Moodle course pages and section summaries.
+A Moodle local plugin for testing that provides a structured block-based content builder for pushing styled HTML into Moodle course pages and section summaries.
 
 ## Features
 
@@ -37,4 +37,4 @@ Editing teachers and managers can access the tool from the course **Administrati
 
 GNU GPL v3 or later — https://www.gnu.org/copyleft/gpl.html
 
-Copyright 2026 University of Glasgow LISU
+Copyright 2026 Eric Davies
