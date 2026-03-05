@@ -19,9 +19,13 @@ A Moodle local plugin for testing that provides a structured block-based content
 
 ## Installation
 
-1. Copy or upload the `local_contentbuilder` folder to `{moodleroot}/local/`.
-2. Log in as administrator and visit **Site administration → Notifications** to complete installation.
-3. No database tables are created.
+1. Download the ZIP from the releases page
+2. Log in as Moodle administrator
+3. Go to **Site administration → Plugins → Install plugins**
+4. Upload the ZIP file and follow the on-screen instructions
+5. No database tables are created
+
+Alternatively, unzip and copy the `local_contentbuilder` folder to `{moodleroot}/local/` then visit **Site administration → Notifications** to complete installation.
 
 ## Usage
 
