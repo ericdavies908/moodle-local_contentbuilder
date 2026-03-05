@@ -18,7 +18,7 @@
  * English language strings for local_contentbuilder.
  *
  * @package    local_contentbuilder
- * @copyright  2026 University of Glasgow LISU {@link https://www.gla.ac.uk}
+ * @copyright  2026 Eric Davies
  * @license    https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
